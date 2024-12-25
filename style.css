@@ -1,0 +1,46 @@
+body {
+    background-color: #E9ECEF;
+}
+
+header {
+    background-color: #2e3237;
+    display: flex;
+    align-items: center;
+    
+}
+
+header a {
+    color: #9297aa;
+}
+
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.jumbotron h1 {
+    color: #bf2d53;
+}
+
+.jumbotron h4 {
+    color: #ae821a;
+}
+
+button {
+    padding-left: 10px ;
+    padding-right: 10px ;
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #0074f2;
+}
+
+button a {
+    color: white;
+}
+
+#span {
+    color: #ab242f;
+}
